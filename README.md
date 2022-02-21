@@ -1,24 +1,20 @@
-<!--
-**Nathanavie/NathanAvie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ## Hello 😄
+<a href="https://twitter.com/NathanAvie" target="_blank" height="50">
+  <img src="https://img.shields.io/twitter/follow/NathanAvie?label=Follow%20me" />
+</a>
+<br />
+<a href="https://github.com/NathanAvie" target="_blank" height="50">
+  <img src="https://img.shields.io/github/followers/Nathanavie?label=Github%20followers&style=social">
+</a>
 
-I'm Nathan, a Front-End Developer working in the UK.
+## Stats 📈
+![NathanAvie's GitHub stats](https://github-readme-stats.vercel.app/api?username=NathanAvie&show_icons=true&theme=blueberry&hide_rank=false&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NathanAvie&theme=blueberry&layout=compact)
 
 ## Skills 💡
 
-### markdown + styling 🖥
+### Markdown / styling 🖥
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![LESS](https://img.shields.io/badge/less-hotpink.svg?style=for-the-badge&logo=less&logoColor=white)
@@ -26,7 +22,7 @@ I'm Nathan, a Front-End Developer working in the UK.
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Material-UI](https://img.shields.io/badge/material-ui-%2338B2AC.svg?style=for-the-badge&logo=material-ui&logoColor=white)
 
-### programming languages + libraries 💻
+### Programming languages / Libraries 💻
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
@@ -36,9 +32,6 @@ I'm Nathan, a Front-End Developer working in the UK.
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 
-### testing
+### Testing
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
-
-## stats 📈
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NathanAvie&layout=compact&theme=cobalt)
