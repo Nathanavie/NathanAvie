@@ -1,8 +1,7 @@
 
 ## Hello 😄
-<a href="https://twitter.com/NathanAvie" target="_blank" height="50">
-  <img src="https://img.shields.io/twitter/follow/NathanAvie?label=Follow%20me" />
-</a>
+![Years Badge](https://badges.pufler.dev/years/nathanavie)
+
 <br />
 <a href="https://github.com/NathanAvie" target="_blank" height="50">
   <img src="https://img.shields.io/github/followers/Nathanavie?label=Github%20followers&style=social">
@@ -32,6 +31,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 
-### Testing
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
+### Projects I've starred
+![Last Stars Display](https://badges.pufler.dev/last-stars/nathanavie?count=6&padding=15&perRow=3)
+
+
