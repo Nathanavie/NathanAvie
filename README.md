@@ -9,7 +9,7 @@
 </a>
 
 ## Stats 📈
-![NathanAvie's GitHub stats]([https://github-readme-stats.vercel.app/api?username=NathanAvie&show_icons=true&theme=blueberry&count_private=true&include_all_commits=true](https://github-readme-stats.vercel.app/api?username=NathanAvie&show_icons=true&theme=blueberry&count_private=true&include_all_commits=true&custom_title=My%20stats&text_bold=true))
+![NathanAvie's GitHub stats](https://github-readme-stats.vercel.app/api?username=NathanAvie&show_icons=true&theme=blueberry&count_private=true&include_all_commits=true&custom_title=My%20stats&text_bold=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NathanAvie&theme=blueberry&layout=compact)
 
 ## Skills 💡
