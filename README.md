@@ -32,6 +32,6 @@
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 
 ### Projects I've starred
-![Last Stars Display](https://badges.pufler.dev/last-stars/nathanavie?count=6&padding=15&perRow=3)
+![Last Stars Display](https://badges.pufler.dev/last-stars/nathanavie?count=8&padding=15&perRow=4)
 
 
