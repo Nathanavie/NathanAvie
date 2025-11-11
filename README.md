@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-zeta-olive-36.vercel.app/api?username=nathanavie&show_icons=true&theme=dark&locale=en&count_private=true&include_all_commits=true" width="40%" />
+  <img src="https://github-readme-stats-zeta-olive-36.vercel.app/api?username=nathanavie&show_icons=true&theme=dark&locale=en&count_private=true&include_all_commits=true&v=2" width="40%" />
 </p>
 
 <p align="center">
