@@ -8,7 +8,6 @@ Most of my 2026 work lives in private repos, but here is what is on the go:
 
 - **steps**: a social step-competition app in React Native and Supabase — Health Connect and HealthKit sync, group leaderboards, friends, walk sharing, and AI weekly recaps. Currently dogfooding a live build ahead of app store submission
 - **walkloop**: a walking habit app for generating and following loops from wherever I am, with live follow mode — built for a season of living in new cities
-- **claude-diary**: an automated diary that summarises my Claude Code sessions so nothing gets lost
 - **investment-watch**: a dashboard that does daily AI-assisted research on the investments I follow
 
 ## Latest writing
