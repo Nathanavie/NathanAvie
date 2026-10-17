@@ -13,11 +13,11 @@ Most of my 2026 work lives in private repos, but here is what is on the go:
 ## Latest writing
 
 <!-- LATEST-WRITING:START -->
+- [Coding From Bratislava: The Quiet City](https://www.nathanatherton.com/blog/coding-from-bratislava) — Oct 16, 2026
 - [I Got Into a Vibe-Coded App. The Dev Actually Fixed It.](https://www.nathanatherton.com/blog/i-got-into-a-vibe-coded-app) — Aug 26, 2026
 - [Nobody Read the Code: Why I Changed My Mind About AI Review](https://www.nathanatherton.com/blog/nobody-read-the-code) — Aug 06, 2026
 - [A Time Capsule for My Dad](https://www.nathanatherton.com/blog/a-time-capsule-for-my-dad) — Aug 04, 2026
 - [Claude Code in My Pocket: Building cc-remote](https://www.nathanatherton.com/blog/claude-code-in-my-pocket) — Jul 06, 2026
-- [Coding From Split: A Villa, a Pool, and a Cat Who Kept Letting Himself In](https://www.nathanatherton.com/blog/coding-from-split) — May 25, 2026
 <!-- LATEST-WRITING:END -->
 
 ## Elsewhere
